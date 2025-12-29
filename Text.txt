@@ -15,3 +15,20 @@ git remote add origin https://github.com/jayhkhatri/Python_Assignment.git
 ## Making Pull request
 
 git pull origin main (main is branch name)
+
+
+## to check the status of files in local reposatory
+
+git status %% red files means files are not availble in git hub
+
+## push files to github
+
+git add filename or . % either add file name seperately or add . to include all files and all the redfiles or selected red files will turn to green but not vsible to online github
+git commit -m "commitment msg"
+git push --set-upstream origin master(or any branch)
+## now it will be avable in master branch
+so click on compare and pull and make pull request and then merge.
+
+
+to creat a branch from main:
+git checkout -b "branchname"
