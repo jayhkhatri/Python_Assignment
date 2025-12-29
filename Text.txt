@@ -1,0 +1,11 @@
+For First time initalise
+go to the root directory folder C:/use/pycharm/pythonproject
+open terminal
+git config --global user.name ""username"
+git config --global user.email "useremail"
+git init  %% to see git folder in local repo.
+
+
+## to assign remote access
+
+git remote add origin 
