@@ -40,7 +40,7 @@ print(78.5 not in student_detail)
 
 
 # mutability and immutability
-# list are mutable while tuples and strings are immutable
+# listedCountry are mutable while tuples and strings are immutable
 
 s1 = "python is fun"
 s1.replace("python","Java")
