@@ -20,7 +20,7 @@ set1.discard(10)
 print(set1)
 
 set1.discard(145)
-print(set1) # no error as 145 not in the list to be discarded so no worries like remove
+print(set1) # no error as 145 not in the listedCountry to be discarded so no worries like remove
 
 
 
