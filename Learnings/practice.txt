@@ -1,0 +1,5 @@
+this is a test file.
+we are leaning file handling in python
+modes to open a file ar r,w,a,x,t,b.0.510.510.5105.010
+10
+2.0
